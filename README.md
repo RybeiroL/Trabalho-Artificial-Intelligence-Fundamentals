@@ -127,7 +127,7 @@ O projeto foi desenvolvido e executado no **Google Colab**, e os arquivos princi
 📦 Trabalho-Artificial-Intelligence-Fundamentals/
 ┣ 📜 README.md
 ┣ 📜 requirements.txt
-┗ 📜 Trabalho Artificial Intelligence Fundamentals.ipynb  ← notebook do Google Colab com o código completo
+┗ 📜 Trabalho_Artificial_Intelligence_Fundamentals.ipynb  ← notebook do Google Colab com o código completo
 
 ```
 
@@ -138,7 +138,7 @@ O projeto foi desenvolvido e executado no **Google Colab**, e os arquivos princi
 ## 🧩 9. Execução do Projeto  
 
 ### No Google Colab:
-1. Acesse o arquivo `Trabalho Artificial Intelligence Fundamentals.ipynb`;  
+1. Acesse o arquivo `Trabalho_Artificial_Intelligence_Fundamentals.ipynb`;  
 2. Execute todas as células em ordem;  
 3. Serão exibidos:  
    - Gráfico do grafo da cidade;  
