@@ -1,0 +1,6 @@
+# Bibliotecas necessárias para o projeto "Rota Inteligente: Otimização de Entregas com IA"
+
+networkx==3.2.1
+matplotlib==3.9.0
+numpy==1.26.4
+scikit-learn==1.5.0
