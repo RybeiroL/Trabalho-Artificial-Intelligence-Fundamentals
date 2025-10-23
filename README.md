@@ -63,6 +63,8 @@ O mapa da cidade foi modelado como um **grafo**, onde:
 Exemplo do grafo:  
 
 ![Mapa da Cidade](docs/diagrama_grafo.png)
+<img width="747" height="434" alt="image" src="https://github.com/user-attachments/assets/883ea1c0-2e11-4d0f-b4e7-fbc970096e0b" />
+
 
 ---
 
@@ -75,6 +77,8 @@ Exemplo do grafo:
 - Distância total: **13 km**  
 
 ![Rota mais curta](docs/rota_mais_curta.png)
+<img width="592" height="420" alt="image" src="https://github.com/user-attachments/assets/0db9e847-ea87-41ff-91f9-ee0f64b3e25b" />
+
 
 ---
 
@@ -86,6 +90,8 @@ Foram definidos **3 clusters (zonas)** de entregas.
 - **Zona 3:** [[2,3], [3,4], [5,2]]  
 
 ![Clustering](docs/clustering.png)
+<img width="567" height="379" alt="image" src="https://github.com/user-attachments/assets/15281fe5-1e69-4e60-8f2c-f54450f8f15d" />
+
 
 ---
 
