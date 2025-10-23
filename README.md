@@ -120,25 +120,25 @@ Referências sugeridas:
 
 ## 💻 8. Estrutura do Projeto  
 
+O projeto foi desenvolvido e executado no **Google Colab**, e os arquivos principais estão organizados da seguinte forma:
+
 ```
-📦 rota-inteligente/
- ┣ 📂 src/
- ┃ ┣ main.py
- ┣ 📂 docs/
- ┃ ┣ diagrama_grafo.png
- ┃ ┣ rota_mais_curta.png
- ┃ ┣ clustering.png
- ┣ README.md
- ┣ requirements.txt
- ┗ rota_inteligente.ipynb
+
+📦 Trabalho-Artificial-Intelligence-Fundamentals/
+┣ 📜 README.md
+┣ 📜 requirements.txt
+┗ 📜 Trabalho Artificial Intelligence Fundamentals.ipynb  ← notebook do Google Colab com o código completo
+
 ```
+
+🔗 [Clique aqui para abrir o projeto diretamente no Google Colab](https://colab.research.google.com/drive/1jaqrflkfsK-Ghzs5Z0x-RI9ZvWGzGeSu?usp=sharing)
 
 ---
 
 ## 🧩 9. Execução do Projeto  
 
 ### No Google Colab:
-1. Acesse o arquivo `rota_inteligente.ipynb`;  
+1. Acesse o arquivo `Trabalho Artificial Intelligence Fundamentals.ipynb`;  
 2. Execute todas as células em ordem;  
 3. Serão exibidos:  
    - Gráfico do grafo da cidade;  
