@@ -125,9 +125,13 @@ O projeto foi desenvolvido e executado no **Google Colab**, e os arquivos princi
 ```
 
 📦 Trabalho-Artificial-Intelligence-Fundamentals/
-┣ 📜 README.md
-┣ 📜 requirements.txt
-┗ 📜 Trabalho_Artificial_Intelligence_Fundamentals.ipynb  ← notebook do Google Colab com o código completo
+┣ 📂 docs/                          ← pasta com as imagens e gráficos do projeto
+┃ ┣ diagrama_grafo.png              ← grafo da cidade (mapa de bairros)
+┃ ┣ rota_mais_curta.png             ← visualização da menor rota encontrada
+┃ ┗ clustering.png                  ← agrupamento K-Means das entregas
+┣ 📜 README.md                      ← documentação completa do projeto
+┣ 📜 requirements.txt               ← bibliotecas necessárias para execução
+┗ 📜 Trabalho_Artificial_Intelligence_Fundamentals.ipynb ← notebook com o código completo
 
 ```
 
