@@ -157,14 +157,19 @@ pip install networkx matplotlib scikit-learn numpy
 
 ---
 
-## 🎥 10. Vídeo Pitch (até 4 minutos)
+## 🎥 10. Vídeo Pitch  
 
-No vídeo, apresente:
-1. O problema da empresa Sabor Express;  
-2. A ideia da solução (A* + K-Means);  
-3. O funcionamento do código e gráficos;  
-4. A análise dos resultados e benefícios.  
+O vídeo a seguir apresenta uma explicação resumida e visual do projeto **“Rota Inteligente: Otimização de Entregas com Algoritmos de IA”**, desenvolvido para a disciplina *Artificial Intelligence Fundamentals*.  
 
+Durante o vídeo, são abordados:
+- O objetivo do projeto e o problema proposto;  
+- A explicação dos algoritmos utilizados (A\* e K-Means);  
+- A demonstração dos resultados obtidos (rotas otimizadas e agrupamentos);  
+- E as principais conclusões e aprendizados do desenvolvimento.  
+
+📽️ **Assista ao vídeo completo aqui:**  
+🔗 [Clique para assistir ao Vídeo Pitch no YouTube](https://www.youtube.com/watch?v=aBQhSSq5OT0)
+  
 ---
 
 ## 🏁 11. Conclusão Final  
